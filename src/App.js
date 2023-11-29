@@ -8,12 +8,6 @@ export default function App() {
       <div className="container">
         <h1>Weather Search Engine</h1>
         <WeatherSearch />
-        <footer>
-          <a href="https://github.com/ygrybkova/react-app" target="_blank">
-            Open-source code
-          </a>
-          by Yuliia Grybkova
-        </footer>
       </div>
     </div>
   );
