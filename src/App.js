@@ -8,7 +8,11 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="New York" />
         <footer>
-          <a href="https://github.com/ygrybkova/react-app" target="_blank">
+          <a
+            href="https://github.com/ygrybkova/react-app"
+            target="_blank"
+            rel="noreferrer"
+          >
             Open-source code
           </a>
           , by Yuliia Grybkova
